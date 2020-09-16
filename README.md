@@ -1,4 +1,17 @@
-# AmazonFoodReview
+<h1 align="center"> Amazon Food Reivew</h1>
+
+## Introduction:                    
+The Amazon Food Review data is an open dataset that found at [Kaggle](https://www.kaggle.com/snap/amazon-fine-food-reviews). This dataset consists of reviews of foods from Amazon. The data includes reviews 568,545 reviews from 256,059 users spans from Oct 1999 to Oct 2012.       
+
+The purpose of this analysis is to make up a prediction model where we will be able to predict whether a recommendation is positive or negative. In this analysis, we will not focus on the Score, but only the positive/negative sentiment of the recommendation.
+     
+## Goals:         
+- Create new variables and convert variable types          
+- Generate word cloud to get sense of the review          
+- Exploratory data analysis for key variables
+- Explore the relationship between key variables       
+- Create Bag of Words using three different methods     
+- Build logistic regression and random forest regression model and find the one performs the best
 
 ## Outline
 - <b>1.Data Cleaning and Preprocessing</b>  
