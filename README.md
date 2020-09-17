@@ -67,3 +67,7 @@ c) Comparison of ROC Curve
                
                  
 <b>5. Conclusion</b>   
+
+-----update 9/16/2020--------
+*Note: For a complete analysis, please check the kernal named Amazon Food Review Project. 
+The other three kernals were truncated from the complete project and used for my school work project purposes. 
